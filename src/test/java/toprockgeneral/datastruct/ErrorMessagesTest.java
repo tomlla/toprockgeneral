@@ -1,4 +1,4 @@
-package toprock.datastruct;
+package toprockgeneral.datastruct;
 
 import lombok.val;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package toprock.datastruct;
+package toprockgeneral.datastruct;
 
 import static java.util.stream.Collectors.*;
 
