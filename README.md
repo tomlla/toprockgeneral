@@ -1,4 +1,4 @@
-https://jitpack.io/v/tomlla/toprockgeneral.svg
+[![Release](https://jitpack.io/v/tomlla/toprockgeneral.svg)](https://jitpack.io/tomlla/toprockgeneral)
 
 ためしにjitpackをつかってみた時のリポジトリ
 
